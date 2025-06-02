@@ -1,0 +1,14 @@
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/bin/Debug/net9.0/Assignment
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/bin/Debug/net9.0/Assignment.deps.json
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/bin/Debug/net9.0/Assignment.runtimeconfig.json
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/bin/Debug/net9.0/Assignment.dll
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/bin/Debug/net9.0/Assignment.pdb
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.AssemblyInfoInputs.cache
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.AssemblyInfo.cs
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.dll
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/refint/Assignment.dll
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.pdb
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/Assignment.genruntimeconfig.cache
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/assignment/Assignment/obj/Debug/net9.0/ref/Assignment.dll
