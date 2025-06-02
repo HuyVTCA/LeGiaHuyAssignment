@@ -1,0 +1,14 @@
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/bin/Debug/net9.0/Lab01
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/bin/Debug/net9.0/Lab01.deps.json
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/bin/Debug/net9.0/Lab01.runtimeconfig.json
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/bin/Debug/net9.0/Lab01.dll
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/bin/Debug/net9.0/Lab01.pdb
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.AssemblyInfoInputs.cache
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.AssemblyInfo.cs
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.csproj.CoreCompileInputs.cache
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.dll
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/refint/Lab01.dll
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.pdb
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/Lab01.genruntimeconfig.cache
+/Users/wishpaxhugo/Library/Mobile Documents/com~apple~CloudDocs/VTC ACADEMY/Game Programing Language/Lab01/obj/Debug/net9.0/ref/Lab01.dll
