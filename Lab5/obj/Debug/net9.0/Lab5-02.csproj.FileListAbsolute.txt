@@ -1,0 +1,14 @@
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/bin/Debug/net9.0/Lab5-02
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/bin/Debug/net9.0/Lab5-02.deps.json
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/bin/Debug/net9.0/Lab5-02.runtimeconfig.json
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/bin/Debug/net9.0/Lab5-02.dll
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/bin/Debug/net9.0/Lab5-02.pdb
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.AssemblyInfoInputs.cache
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.AssemblyInfo.cs
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.csproj.CoreCompileInputs.cache
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.dll
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/refint/Lab5-02.dll
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.pdb
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/Lab5-02.genruntimeconfig.cache
+/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/Lab5-02/obj/Debug/net9.0/ref/Lab5-02.dll
