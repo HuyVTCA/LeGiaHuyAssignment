@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbpI0GGrRjI=",
+  "success": true,
+  "projectFilePath": "/Users/wishpaxhugo/Downloads/Hugo/VTC-ACADEMY/Game Programing Language/LAB11/LAB11.csproj",
+  "expectedPackageFiles": [
+    "/Users/wishpaxhugo/.nuget/packages/firebasedatabase.net/5.0.0/firebasedatabase.net.5.0.0.nupkg.sha512",
+    "/Users/wishpaxhugo/.nuget/packages/litedb/5.0.17/litedb.5.0.17.nupkg.sha512",
+    "/Users/wishpaxhugo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/wishpaxhugo/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
