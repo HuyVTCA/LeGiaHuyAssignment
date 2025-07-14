@@ -35,7 +35,7 @@ internal class Program
 
     public static async Task AddTestData()
     {
-        var firebase = new FirebaseClient("https://fir-a66cc-default-rtdb.asia-southeast1.firebasedatabase.app");
+        var firebase = new FirebaseClient("firebase.link");
         var testData = new
         {
             Message = "Hello, Firebase!",
@@ -47,14 +47,14 @@ internal class Program
 
     public static async Task ReadTestData()
     {
-        var firebase = new FirebaseClient("https://fir-a66cc-default-rtdb.asia-southeast1.firebasedatabase.app");
+        var firebase = new FirebaseClient("firebase.link");
         var testData = await firebase.Child("testData").OnceSingleAsync<dynamic>();
         Console.WriteLine($"Message: {testData.Message}, Timestamp: {testData.Timestamp}");
     }
 
     public static async Task UpdateTestData()
     {
-        var firebase = new FirebaseClient("https://fir-a66cc-default-rtdb.asia-southeast1.firebasedatabase.app");
+        var firebase = new FirebaseClient("firebase.link"");
         var updatedData = new
         {
             Message = "Updated message",
@@ -66,7 +66,7 @@ internal class Program
 
     public static async Task GenerateTestPlayer(int num)
     {
-        var firebase = new FirebaseClient("https://fir-a66cc-default-rtdb.asia-southeast1.firebasedatabase.app");
+        var firebase = new FirebaseClient(firebase.link");
         var random = new Random();
         for (int i = 0; i < num; i++)
         {
@@ -93,7 +93,7 @@ internal class Program
 
     public static async Task LoadLeaderboard(int limit = 10)
     {
-        var firebase = new FirebaseClient("https://fir-a66cc-default-rtdb.asia-southeast1.firebasedatabase.app");
+        var firebase = new FirebaseClient("firebase.link"");
         try
         {
             var players = await firebase
